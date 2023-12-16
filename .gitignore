@@ -1,6 +1,6 @@
 ## Vs code
-.vscode
-.VSCode
+.vscode/*
+!.vscode/settings.json
 ### Node ###
 # Logs
 logs
