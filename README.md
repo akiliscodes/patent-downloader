@@ -1,3 +1,3 @@
 ## Patent downloader
 
-Oingoing project
+Ongoing project
