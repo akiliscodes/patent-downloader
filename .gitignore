@@ -141,3 +141,4 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 data/
+.DS_Store
